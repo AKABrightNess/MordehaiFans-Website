@@ -1,3 +1,3 @@
 function Click(){
-    window.open("mc.mordehaifans.xyz:4263", '_blank').focus;
+    window.open('http://mc.mordehaifans.xyz:4263', '_blank').focus;
 }
